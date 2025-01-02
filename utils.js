@@ -1,2 +1,2 @@
-const apiURL = "http://localhost:5000";
+const apiURL = "https://mern-chat-frontend-sg2y.onrender.com";
 export default apiURL;
